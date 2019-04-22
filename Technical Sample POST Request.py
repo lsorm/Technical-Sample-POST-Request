@@ -3,7 +3,7 @@ import json
 
 test_url = "https://lyft-interview-test.herokuapp.com/test"
 
-string_to_cut = "iamyourlyftdriver"
+string_to_cut = input("Enter a string to cut: ")
 
 result = ""
 
